@@ -1,0 +1,19 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LW_CRYPTO_INIT_STRING>This value should be replaced</LW_CRYPTO_INIT_STRING>
+    <IIS_WEB_SITE_NAME>Default Web Site</IIS_WEB_SITE_NAME>
+    <DomainName>.</DomainName>
+    <SystemUserName>IUSR_METRO</SystemUserName>
+    <SystemUserPwd>
+    </SystemUserPwd>
+    <UseDefaultUserSetting>true</UseDefaultUserSetting>
+    <UserGroup>Administrators</UserGroup>
+    <ConfigureUser>false</ConfigureUser>
+    <ALM_GRANT_TOKEN_STRING>
+    </ALM_GRANT_TOKEN_STRING>
+    <IDM_URL_STRING>
+    </IDM_URL_STRING>
+    <IDM_VALIDATION_URL>
+    </IDM_VALIDATION_URL>
+  </PropertyGroup>
+</Project>
